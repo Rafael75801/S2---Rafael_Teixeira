@@ -1,5 +1,10 @@
 def mostrar_menu():
-    
+    print("=== MENU ===")
+    print("1 - Adicionar aluno")
+    print("2 - Ver todos os alunos")
+    print("3 - Ver média de um aluno")
+    print("4 - Sair")
+
 def adicionar_aluno(alunos):
     nome = input("Nome do aluno: ")
     notas = []
