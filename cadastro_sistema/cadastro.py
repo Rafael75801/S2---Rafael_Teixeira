@@ -1,5 +1,9 @@
 def mostrar_menu():
-    
+    print('Madagascar é um filme muito legal')
+    print('55 + 5 = 60')
+    print('9 x 3 = 27')
+    print('Gigantes de Aço merecia OSCAR, muito bom')
+    print('Em 1994 o Brasil estava ganhando sua Quarta Copa do Mundo, em cima da Itália, quem ganhasse ia virar Tetracampeão!')
 def adicionar_aluno(alunos):
     nome = input("Nome do aluno: ")
     notas = []
